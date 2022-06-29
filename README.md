@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi I'm Mohamed Koualil 👋
 
-<!--
-**koualil/koualil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 Here are some ideas to get you started:
+ 
+- 🌱 I’m currently learning Everything
+- ✨ I am passionate about Web Dev & I enjoy learning new things
+- 👯 I’m looking to collaborate on Internet of Things (IoT) projects
+- 🤔 I’m looking for help with 
+- 💬 Ask me about technology web 
+- 📫 How to reach me: you can reach me from the social media links above
+- ⚡ Languages: C, C++, Java , Php , Html ,Css ,javaScript , sql , plSql 
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
